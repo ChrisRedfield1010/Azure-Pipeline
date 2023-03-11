@@ -56,7 +56,7 @@
 				]
 			},
 			{
-				"name": "Copy data Customer",
+				"name": "Customer",
 				"type": "Copy",
 				"dependsOn": [],
 				"policy": {
@@ -109,7 +109,7 @@
 				]
 			},
 			{
-				"name": "Copy data CustomerAddress",
+				"name": "CustomerAddress",
 				"description": "",
 				"type": "Copy",
 				"dependsOn": [],
@@ -163,7 +163,7 @@
 				]
 			},
 			{
-				"name": "Copy data Product",
+				"name": "Product",
 				"description": "",
 				"type": "Copy",
 				"dependsOn": [],
@@ -217,7 +217,7 @@
 				]
 			},
 			{
-				"name": "Copy data ProductCategory",
+				"name": "ProductCategory",
 				"description": "",
 				"type": "Copy",
 				"dependsOn": [],
@@ -271,7 +271,7 @@
 				]
 			},
 			{
-				"name": "Copy data ProductDescription",
+				"name": "ProductDescription",
 				"type": "Copy",
 				"dependsOn": [],
 				"policy": {
@@ -324,7 +324,7 @@
 				]
 			},
 			{
-				"name": "Copy data ProductModel",
+				"name": "ProductModel",
 				"type": "Copy",
 				"dependsOn": [],
 				"policy": {
@@ -377,7 +377,7 @@
 				]
 			},
 			{
-				"name": "Copy data ProductModelProductDescription",
+				"name": "ProductModelProductDescription",
 				"type": "Copy",
 				"dependsOn": [],
 				"policy": {
@@ -430,7 +430,7 @@
 				]
 			},
 			{
-				"name": "Copy data SalesOrderDetail",
+				"name": "SalesOrderDetail",
 				"type": "Copy",
 				"dependsOn": [],
 				"policy": {
@@ -483,7 +483,7 @@
 				]
 			},
 			{
-				"name": "Copy data SalesOrderHeader",
+				"name": "SalesOrderHeader",
 				"type": "Copy",
 				"dependsOn": [],
 				"policy": {
