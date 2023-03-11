@@ -5978,6 +5978,9 @@
 						"type": "string"
 					}
 				},
+				"folder": {
+					"name": "Datasets Chris Redfield"
+				},
 				"annotations": [],
 				"type": "DelimitedText",
 				"typeProperties": {
@@ -6025,6 +6028,9 @@
 					"Archivo": {
 						"type": "string"
 					}
+				},
+				"folder": {
+					"name": "Datasets Chris Redfield"
 				},
 				"annotations": [],
 				"type": "Parquet",
