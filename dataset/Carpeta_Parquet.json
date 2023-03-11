@@ -16,6 +16,9 @@
 				"type": "string"
 			}
 		},
+		"folder": {
+			"name": "Datasets Chris Redfield"
+		},
 		"annotations": [],
 		"type": "Parquet",
 		"typeProperties": {
