@@ -314,7 +314,7 @@
 										"value": "@pipeline().parameters.Carpeta_CSV",
 										"type": "Expression"
 									},
-									"Archivo": "Cargas.csv"
+									"Archivo": "cargas.csv"
 								}
 							}
 						],
@@ -331,7 +331,7 @@
 										"value": "@pipeline().parameters.Carpeta_Parquet",
 										"type": "Expression"
 									},
-									"Archivo": "Carga"
+									"Archivo": "cargas"
 								}
 							}
 						]
@@ -392,7 +392,7 @@
 										"value": "@pipeline().parameters.Carpeta_CSV",
 										"type": "Expression"
 									},
-									"Archivo": "Sitios.csv"
+									"Archivo": "sitios.csv"
 								}
 							}
 						],
@@ -409,7 +409,7 @@
 										"value": "@pipeline().parameters.Carpeta_Parquet",
 										"type": "Expression"
 									},
-									"Archivo": "Sitios"
+									"Archivo": "sitios"
 								}
 							}
 						]
